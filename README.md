@@ -5,7 +5,7 @@
 
 Skills:  REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on looking for a new project 
+- 🔭 I’m currently looking for a new project 
 - 🌱 I’m currently learning React, and Redux 
 - 📫 How to reach me: chrislee910320@gmail.com 
 
