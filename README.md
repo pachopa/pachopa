@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Chris!
 ![](Link to my portfolio website later)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pachopa&repo=NetflixClone&theme=radical)](https://github.com/pachopa/NetflixClone)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pachopa&repo=NetflixClone&theme=radical&show_owner=true)](https://github.com/pachopa/NetflixClone)
 
 Skills:  REACT / JS / HTML / CSS
 
