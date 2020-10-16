@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently looking for a new project 
 - 🌱 I’m currently learning React, Redux, and Firebase
-- 📫 How to reach me: chrislee910320@gmail.com 
+- 📫 How to reach me: chrislee910320@gmail.com
 
 ### Languages and Tools:
 
