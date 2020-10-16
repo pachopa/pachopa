@@ -8,7 +8,7 @@
 Skills:  REACT / JS / HTML / CSS
 
 - 🔭 I’m currently looking for a new project 
-- 🌱 I’m currently learning React, Redux, GraphQL, Firebase, and AWS 
+- 🌱 I’m currently learning React, Redux, and Firebase
 - 📫 How to reach me: chrislee910320@gmail.com 
 
 
